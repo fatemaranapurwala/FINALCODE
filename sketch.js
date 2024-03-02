@@ -16,7 +16,7 @@ var health = 200;
 var max_health = 200;
 
 function preload() {
-    splashscreen_img = loadImage("assets/splashscreen.gif");
+    splashscreen_img = loadImage("assets/splashScreen.gif");
     player_img = loadImage("assets/player.png");
     bg_img = loadImage("assets/bg.jpg");
     enemy1=loadImage("assets/asteroid.png");
